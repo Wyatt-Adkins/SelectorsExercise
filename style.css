@@ -1,0 +1,47 @@
+/* 1 */
+body {background-color: #ced4d8;}
+/* 2 */
+h1 {color: #AC6AC7}
+/* 3 */
+H2 { color: rgb(255,165,0);}
+/* 4 */
+li {color: blue;}
+/* 5 */
+p {background-color: gold;}
+/* 6 */
+input {border: 5px dotted pink;}
+/* 7 */
+.first {background-color: #fff;}
+/* 8 */
+#important {border: 3px dashed #0000ff;}
+/* 9 , write a note about this at some point in your journal future me*/
+/* thank you past me, i did it. */
+/* your welcome even further past me, future you and past you is very thankful */
+div>p { font-size: 30px; }
+/* 10 */
+input[type=email] {background-color: #808080;}
+/* 11 */
+div:nth-of-type(3)>p {background-color: hotpink;}
+/* 12 */
+div:nth-of-type(3)>p:nth-of-type(2) {border: 7px solid rgb(255,255,255);}
+/* 13 */
+em {color: seashell;font-size:25px;}
+/* bonus */
+/*  */
+/* b1*/
+input:checked{ margin-left: 40px;}
+/* b2 */
+label{text-transform: lowercase; }
+/* b3 */
+#important::first-letter {
+    font-size: 90px ;
+    color: limegreen;}
+/* b4 */
+h1:hover {
+    color: navy;
+  }
+/* b5 */
+a:visited {
+    color: gray;
+  }
+  /* I believe this works, it did in testing but im not sure how to reset it */
